@@ -1,0 +1,10 @@
+.btn-group {
+  float: right;
+  margin: 10px 20px;
+  box-shadow: 5px 5px 10px rgba(21, 163, 184, 0.3);
+  border-radius: 3px;
+}
+
+.btn-group .active:hover {
+  cursor: default;
+}

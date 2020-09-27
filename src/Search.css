@@ -1,0 +1,19 @@
+.Search {
+  float: right;
+  margin-top: 20px;
+}
+
+.Search .search-button,
+.city-input {
+  background-color: #cbf1f6;
+  border-color: #139bad;
+  border-radius: 3px;
+  box-shadow: 5px 5px 9px rgba(242, 242, 241, 0.3);
+  border: 0.8px solid rgba(21, 163, 184, 0.125);
+}
+.Search .search-button {
+  transition: all 300ms ease;
+}
+.Search .search-button:hover {
+  background-color: #dbfbff;
+}

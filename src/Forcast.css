@@ -1,0 +1,15 @@
+.Forcast .card {
+  padding: 20px 20px;
+  min-width: 510px;
+  max-width: 550px;
+  background-image: linear-gradient(to top, #f2f2f1, #4dd1e2, #15a3b8);
+  border: 0.5px solid #f2f2f1;
+  box-shadow: 5px 5px 10px rgba(21, 163, 184, 0.3);
+  text-align: center;
+  flex-direction: row;
+  margin-bottom: 20px;
+}
+
+.row {
+  padding-left: 20px;
+}

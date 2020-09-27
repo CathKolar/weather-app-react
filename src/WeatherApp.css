@@ -1,0 +1,27 @@
+.WeatherApp .capsule {
+  margin: 0 auto;
+
+  min-width: 600px;
+  max-width: 700px;
+}
+.WeatherApp .card-body {
+  background-image: linear-gradient(to top, #f2f2f1, #4dd1e2, #15a3b8);
+  border-radius: 22px;
+  min-width: 600px;
+  max-width: 700px;
+  background-blend-mode: normal, color-burn;
+  border: 2px solid #f2f2f1;
+  box-shadow: 5px 5px 10px rgba(21, 163, 184, 0.3);
+}
+.WeatherApp .header {
+  margin-bottom: 0;
+}
+
+.WeatherApp .weather-app-wrapper {
+  max-width: 600px;
+  margin: 30px auto;
+}
+.WeatherApp .card {
+  border-radius: 22px;
+  border: 0.5px solid rgba(21, 163, 184, 0.125);
+}

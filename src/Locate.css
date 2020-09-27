@@ -1,0 +1,11 @@
+.Locate .current-location-button {
+  background: transparent;
+  color: rgb(72, 72, 75);
+
+  border-style: none;
+  float: center;
+  transition: all 300ms ease;
+}
+.Locate .current-location-button:hover {
+  color: rgb(34, 38, 42);
+}
