@@ -6,7 +6,7 @@ export default function Footer() {
       {" "}
       <small>
         <a
-          href="https://github.com/CathKolar/Weather-app-project"
+          href="https://github.com/CathKolar/weather-app-react"
           target="blank"
         >
           <span className="link"> Open-source code </span>
